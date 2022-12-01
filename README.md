@@ -15,11 +15,82 @@ Projeto com objetivo de mostrar o meus conhecimentos com `javascript`, com seus 
 
 ## Conteúdo javascript
 
+`Variáveis`
+```Variáveis
+    let name = 'name';
+    let age = 30;
+```
 
-```javascript
-    
+`Constantes`
+```Constantes
     
 ```
+
+`Tipos Primitivos`
+```
+    
+```
+
+`Tipagem Dinâmica no Javascript`
+```
+    
+```
+
+`Objetos`
+```
+    
+```
+
+`Arrays`
+```
+    
+```
+
+`Functions`
+```
+    
+```
+
+`Tipos de Funções`
+```
+    
+```
+
+`Operadores no Javascript`
+```
+    
+```
+
+`Operadores aritiméticos no Javascript`
+```
+    
+```
+
+`Operadores de atribuição no Javascript`
+```
+    
+```
+
+`Operadores de igualdade no Javascript`
+```
+    
+```
+
+`Operador Ternário`
+```
+    
+```
+
+`Operadores Lógicos`
+```
+    
+```
+
+`Comparações não boleanos`
+```
+    
+```
+
 
 <br>
 
