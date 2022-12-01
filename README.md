@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="#" title="git-github">
-		<img src="/logo-js.png" alt="logo header" width="320">
+		<img src="/logo-js.png" alt="logo header" width="200">
 	</a>
 </p>
 
